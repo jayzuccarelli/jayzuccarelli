@@ -4,7 +4,7 @@
 
 - Data Scientist leading innovation in AI at Fortune 100 companies
 - 🏛️ MIT, Harvard, Imperial College
-- 🇺🇸, 🇬🇧, 🇮🇹 
+- 🇺🇸 🇬🇧 🇮🇹 
 
 #### GitHub Stats
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=jayzuccarelli&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/jayzuccarelli)
