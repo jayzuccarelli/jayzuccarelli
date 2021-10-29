@@ -2,7 +2,7 @@
 
 #### About Me 🚀
 
-- Data Scientist leading innovation in AI at Fortune 500 companies
+- Data Scientist leading innovation in AI at Fortune 100 companies
 - 🏛️ MIT, Harvard, Imperial College
 - 🇺🇸, 🇬🇧, 🇮🇹 
 
