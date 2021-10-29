@@ -1,18 +1,35 @@
-### Hi there 👋
+### Hey 🧑‍🚀
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayzuccarelli)](https://github.com/anuraghazra/github-readme-stats)
+#### About Me 🚀
 
-<!--
-**jayzuccarelli/jayzuccarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Data Scientist leading innovation in AI at Fortune 500 companies
+- 🏛️ MIT, Harvard, Imperial College
+- 🇺🇸, 🇬🇧, 🇮🇹 
 
-Here are some ideas to get you started:
+#### GitHub Stats
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=jayzuccarelli&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/jayzuccarelli)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Get in Touch 👽
+- Twitter: [@jayzuccarelli](https://twitter.com/jayzuccarelli)
+- LinkedIn: [@jayzuccarelli](https://www.linkedin.com/in/jayzuccarelli/)
+- Website: [eugeniozuccarelli.com](https://eugeniozuccarelli.com)
+
+#### Media 🛸
+##### Conference & Meetup Presentations
+  - [Reproducible and maintainable data science code with Kedro](https://youtu.be/JLTYNPoK7nw) @ PyCon US 2021
+  - [Introducing Kedro](https://youtu.be/x1Z5YHFn71E) @ Data Driven NYC February 2021
+  - [Building Machine Learning Products with QuantumBlack, a McKinsey Company](https://youtu.be/1QtDj-9fUu0) @ Product People January 2020
+  - [Atomu: A Case Study](https://youtu.be/FwsaPd95UwU) @ Electric South 2020
+  - [An Introduction to Kedro](https://www.youtube.com/watch?v=BksxHxc1WtU&ab_channel=WhyR%3FFoundation) @ Why R? 2020
+  - [Production-level data pipelines that make everyone happy using Kedro](https://youtu.be/OFObles2CJs) @ PyData Berlin 2019
+  
+##### Podcasts
+  - [QuantumBlack Voices - Meet Yetunde Dada: Product Manage‪r‬](https://podcasts.apple.com/us/podcast/quantumblack-voices/id1554555998?at=11lo6V) @ QuantumBlack 2021
+  - [Open Source Directions Ep. 49: Kedro](https://www.youtube.com/watch?v=USiedaclFzk&ab_channel=OpenTeams) @ OpenTeams 2020
+  - [Productionising real-world ML data pipelines - Episode #380](https://changelog.com/podcast/380) @ Changelog 2020
+  
+##### Blogs
+  - [Beyond the Notebook and into the Data Science Framework Revolution](https://medium.com/quantumblack/beyond-the-notebook-and-into-the-data-science-framework-revolution-a7fd364ab9c4) @ QuantumBlack Medium Blog 2020
+  - [New in Kedro this Month!](https://medium.com/quantumblack/new-in-kedro-this-month-991a1fb50cb4) @ QuantumBlack Medium Blog 2020
+  - [Demystifying Machine Learning Complexity Through Visualisation](https://medium.com/quantumblack/demystifying-machine-learning-complexity-through-visualisation-11a9d73db3c5) @ QuantumBlack Medium Blog 2019
+  - [Introducing Kedro: The Open Source Library for Production-Ready Machine Learning Code](https://medium.com/quantumblack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf) @ QuantumBlack Medium Blog 2019
