@@ -2,7 +2,7 @@
 
 #### About Me 🚀
 
-- Data Scientist leading innovation in AI at Fortune 100 companies
+- Data Science Leader for Fortune 500 companies
 - Forbes 30 Under 30
 - 🏛️ MIT, Harvard, Imperial College
 - 🇺🇸 🇬🇧 🇮🇹 
