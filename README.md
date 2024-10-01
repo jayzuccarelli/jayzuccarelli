@@ -15,5 +15,5 @@
 
 #### Get in Touch 👽
 - LinkedIn: [@jayzuccarelli](https://www.linkedin.com/in/jayzuccarelli/)
-- - Twitter: [@jayzuccarelli](https://twitter.com/jayzuccarelli)
+- Twitter: [@jayzuccarelli](https://twitter.com/jayzuccarelli)
 - Website: [eugeniozuccarelli.com](https://eugeniozuccarelli.com)
