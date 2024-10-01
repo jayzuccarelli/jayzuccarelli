@@ -14,6 +14,6 @@
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=jayzuccarelli&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/jayzuccarelli)
 
 #### Get in Touch 👽
-- Twitter: [@jayzuccarelli](https://twitter.com/jayzuccarelli)
 - LinkedIn: [@jayzuccarelli](https://www.linkedin.com/in/jayzuccarelli/)
+- - Twitter: [@jayzuccarelli](https://twitter.com/jayzuccarelli)
 - Website: [eugeniozuccarelli.com](https://eugeniozuccarelli.com)
