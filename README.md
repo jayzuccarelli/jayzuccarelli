@@ -5,11 +5,11 @@
 #### About Me 🚀
 
 - Data Science Leader for Fortune 100
-- Forbes 30 Under 30, Fortune 40 Under 40
+- Forbes Under 30, Fortune Under 40
 - 🏛️ MIT, Harvard, Imperial College
 - 🇺🇸 🇬🇧 🇮🇹 
 
 #### Get in Touch 📝
 - LinkedIn: [@jayzuccarelli](https://www.linkedin.com/in/jayzuccarelli/)
 - Twitter: [@jayzuccarelli](https://twitter.com/jayzuccarelli)
-- Website: [eugeniozuccarelli.com](https://eugeniozuccarelli.com)
+- Website: [jayzuccarelli.com](https://jayzuccarelli.com)
