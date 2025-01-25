@@ -8,6 +8,6 @@
 - 🇺🇸 🇬🇧 🇮🇹 
 
 #### Get in Touch 📝
+- Website: [jayzuccarelli.com](https://jayzuccarelli.com)
 - LinkedIn: [@jayzuccarelli](https://www.linkedin.com/in/jayzuccarelli/)
 - X: [@jayzuccarelli](https://x.com/jayzuccarelli)
-- Website: [jayzuccarelli.com](https://jayzuccarelli.com)
