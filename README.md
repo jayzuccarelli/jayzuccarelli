@@ -4,4 +4,4 @@ ai-native operator building agentic ai systems and shipping ml models in product
 
 🌐 [jayzuccarelli.com](https://jayzuccarelli.com) · 𝕏 [@jayzuccarelli](https://x.com/jayzuccarelli) · **in** [jayzuccarelli](https://linkedin.com/in/jayzuccarelli)
 
-building: agentic ai · generative models · evals · decision systems
+building: agentic ai · generative models · evals · ml models
