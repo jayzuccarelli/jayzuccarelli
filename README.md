@@ -11,5 +11,3 @@ building agentic systems and evals. shipping ml models in production.
 **[memory-mcp](https://github.com/jayzuccarelli/memory-mcp)** · cross-llm memory over mcp. markdown files are the source of truth, so claude, chatgpt and cursor share one memory.
 
 **[autofill](https://github.com/jayzuccarelli/autofill)** · browser agent that fills any web form from a description of you, built on browser-use. you review and submit.
-
-angel investor in anthropic, openai, cerebras.
