@@ -1,4 +1,4 @@
-### Eugenio "Jay" Zuccarelli
+### Jay Zuccarelli
 
 building agentic systems and evals. shipping ml models in production.
 
@@ -11,3 +11,6 @@ building agentic systems and evals. shipping ml models in production.
 **[memory-mcp](https://github.com/jayzuccarelli/memory-mcp)** · cross-llm memory over mcp. markdown files are the source of truth, so claude, chatgpt and cursor share one memory.
 
 **[autofill](https://github.com/jayzuccarelli/autofill)** · browser agent that fills any web form from a description of you, built on browser-use. you review and submit.
+
+**contributions** · [pytorch #193649](https://github.com/pytorch/pytorch/pull/193649) re-parented dynamo's `dict_keys` tracker so `torch.compile` matches eager · [vllm #58557](https://github.com/vllm-project/vllm/pull/58557) block-size errors now name each attention backend and the sizes it supports · [inspect_ai #4617](https://github.com/UKGovernmentBEIS/inspect_ai/pull/4617) stopped a placeholder api key reaching the hugging face hub on model lookup · [inspect_ai #5102](https://github.com/UKGovernmentBEIS/inspect_ai/pull/5102) fixed chat templates that call dict methods on messages
+
