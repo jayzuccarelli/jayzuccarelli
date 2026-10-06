@@ -14,7 +14,7 @@ building agentic systems and evals. shipping ml models in production.
 
 **contributions**
 - [pytorch #193649](https://github.com/pytorch/pytorch/pull/193649) re-parented dynamo's `dict_keys` tracker so `torch.compile` matches eager
-- [huggingface transformers #49247](https://github.com/huggingface/transformers/pull/49247) documented left padding for batched generation on 24 ssm and hybrid model pages
+- [huggingface transformers #49247](https://github.com/huggingface/transformers/pull/49247) documented left padding for batched generation across the ssm and hybrid model docs
 - [huggingface openenv #1074](https://github.com/huggingface/OpenEnv/pull/1074) stopped rate-limited sandbox installs from retrying and hiding the real error
 - [huggingface trl #7450](https://github.com/huggingface/trl/pull/7450) fixed flops-per-token over-counting untied models: the embedding is a lookup, the lm head always one matmul
 - [cuda (cccl) #11722](https://github.com/NVIDIA/cccl/pull/11722) fixed `cuda::discard_iterator` returning a negated distance in nvidia's cuda c++ core libraries
