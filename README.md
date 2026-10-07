@@ -4,6 +4,7 @@ building agentic systems and evals. shipping ml models in production.
 
 🌐 [jayzuccarelli.com](https://jayzuccarelli.com) · 𝕏 [@jayzuccarelli](https://x.com/jayzuccarelli) · **in** [jayzuccarelli](https://linkedin.com/in/jayzuccarelli)
 
+**projects**
 **[saccade](https://github.com/jayzuccarelli/saccade)** · harness for proactive ambient agents. a cheap always-on model watches continuously and escalates to a larger one only on salience.
 
 **[eden](https://github.com/jayzuccarelli/eden)** · claude agent tending a real hydroponic garden, with an esphome reflex tier holding safety deterministically underneath it.
