@@ -17,10 +17,9 @@ building agentic systems and evals. shipping ml models in production.
 - [huggingface openenv #1074](https://github.com/huggingface/OpenEnv/pull/1074) stopped rate-limited sandbox installs from retrying and hiding the real error
 - [huggingface trl #7450](https://github.com/huggingface/trl/pull/7450) fixed flops-per-token over-counting untied models: the embedding is a lookup, the lm head always one matmul
 - [huggingface peft #3947](https://github.com/huggingface/peft/pull/3947) kept `rank_pattern`/`alpha_pattern` key order on save so overlapping keys resolve the same after reload
-- [nvidia megatron-bridge #6347](https://github.com/NVIDIA-NeMo/Megatron-Bridge/pull/6347) kept checkpoint split indices on device, removing a gpu sync per weight during hf import
+- [nvidia megatron-bridge #6489](https://github.com/NVIDIA-NeMo/Megatron-Bridge/pull/6489) made hf checkpoint key lookups 18x faster on deepseek-v3-scale checkpoints by caching the key set
 - [cuda (cccl) #11722](https://github.com/NVIDIA/cccl/pull/11722) fixed `cuda::discard_iterator` returning a negated distance in nvidia's cuda c++ core libraries
 - [vllm #58557](https://github.com/vllm-project/vllm/pull/58557) block-size errors now name each attention backend and the sizes it supports
 - [liger-kernel #1530](https://github.com/linkedin/Liger-Kernel/pull/1530) fixed gpt-oss rope in the triton kernels by passing `rotary_dim` explicitly
-- [numpy #32824](https://github.com/numpy/numpy/pull/32824) documented that `RandomState.multinomial` matches the numpy 1.16 stream again as of 2.5.0
 - [inspect_ai #5375](https://github.com/UKGovernmentBEIS/inspect_ai/pull/5375) agent bridge now passes through web search and code execution items from google and mistral
 
