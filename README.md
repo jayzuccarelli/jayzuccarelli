@@ -19,7 +19,7 @@ building agentic systems and evals. shipping ml models in production.
 - [huggingface peft #3947](https://github.com/huggingface/peft/pull/3947) kept `rank_pattern`/`alpha_pattern` key order on save so overlapping keys resolve the same after reload
 - [nvidia megatron-bridge #6489](https://github.com/NVIDIA-NeMo/Megatron-Bridge/pull/6489) made hf checkpoint key lookups 18x faster on deepseek-v3-scale checkpoints by caching the key set
 - [cuda (cccl) #11722](https://github.com/NVIDIA/cccl/pull/11722) fixed `cuda::discard_iterator` returning a negated distance in nvidia's cuda c++ core libraries
-- [vllm #58557](https://github.com/vllm-project/vllm/pull/58557) block-size errors now name each attention backend and the sizes it supports
+- [vllm #58780](https://github.com/vllm-project/vllm/pull/58780) made deepseek v3.2/v4 tool calls stream string arguments token by token instead of in one chunk at the end
 - [liger-kernel #1530](https://github.com/linkedin/Liger-Kernel/pull/1530) fixed gpt-oss rope in the triton kernels by passing `rotary_dim` explicitly
 - [jax #41696](https://github.com/jax-ml/jax/pull/41696) added numpy 2.0's `correction` argument to `jnp.nanvar` and `jnp.nanstd`
 - [inspect_ai #5375](https://github.com/UKGovernmentBEIS/inspect_ai/pull/5375) agent bridge now passes through web search and code execution items from google and mistral
