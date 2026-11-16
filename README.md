@@ -15,6 +15,7 @@ building agentic systems and evals. shipping ml models in production.
 - [pytorch #199675](https://github.com/pytorch/pytorch/pull/199675) made `torch.compile` handle `bytearray.append()` and `extend()` instead of graph-breaking
 - [mcp filesystems wg #2](https://github.com/modelcontextprotocol/experimental-ext-filesystems/pull/2) wrote the working group's starting design for creating, updating and deleting files over mcp, with revision-based conflict checks so agents can't overwrite each other
 - [huggingface transformers #49663](https://github.com/huggingface/transformers/pull/49663) cut tokenizer load from 7.6 s to 4.7 s by deferring scikit-learn and generation imports
+- [huggingface transformers #49942](https://github.com/huggingface/transformers/pull/49942) made data collation 1.8x faster (3.3x with numpy) by checking for an empty batch without copying every token id
 - [huggingface openenv #1438](https://github.com/huggingface/OpenEnv/pull/1438) made rollout capture linear instead of quadratic: 200-turn trajectories went from 246 s to 0.4 s
 - [huggingface trl #7450](https://github.com/huggingface/trl/pull/7450) fixed flops-per-token over-counting untied models: the embedding is a lookup, the lm head always one matmul
 - [huggingface peft #3947](https://github.com/huggingface/peft/pull/3947) kept `rank_pattern`/`alpha_pattern` key order on save so overlapping keys resolve the same after reload
